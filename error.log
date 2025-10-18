@@ -1,0 +1,5 @@
+2024-01-15 10:30:15 ERROR: Database connection failed
+2024-01-15 10:31:22 WARNING: Invalid API key provided
+2024-01-15 10:32:45 DEBUG: User admin logged in from IP 192.168.1.100
+2024-01-15 10:33:10 ERROR: File not found: /etc/passwd
+2024-01-15 10:34:20 INFO: Server restarted on port 8080
