@@ -1,2 +1,16 @@
-# my-security-test-site
-A test site for learningsecurity reconnaissance techniques
+# 安全测试网站
+
+这是一个用于学习网络安全信息收集技术的测试网站。
+
+## 测试内容
+- 配置文件 (config.txt)
+- 数据库备份 (backup.sql) 
+- 管理页面 (admin.html)
+- 错误日志 (error.log)
+
+## 技术栈
+- 静态网站
+- GitHub Pages
+- 用于安全学习目的
+
+注意：这是一个测试环境，所有数据都是模拟的。
