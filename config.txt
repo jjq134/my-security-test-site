@@ -1,0 +1,6 @@
+# 测试配置文件
+DATABASE_URL=mysql://localhost:3306/testdb
+API_KEY=test_1234567890abcdef
+ADMIN_PASSWORD=temp_password_2024
+DEBUG_MODE=true
+SECRET_KEY=this_is_a_test_secret_key
